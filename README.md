@@ -8,4 +8,6 @@ This is a simple html css js component made as an assignment for Flarmio
 
 ### 2. install the dependencies (vite server) by typing npm install on the command line
 
-### 3. type npm run dev for the vite server to serve the index.hmtl file
+### 3. type npm run dev for the vite server to load the index.hmtl file
+
+## Alternatively you can load the html file using any server of your preferance. 
