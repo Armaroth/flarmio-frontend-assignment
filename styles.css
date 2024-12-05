@@ -1,3 +1,37 @@
 .message {
-  color: blue;
+  color: rgb(60, 60, 228);
+}
+.card {
+  height: 200px;
+  width: 300px;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 10px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+
+  form {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  input {
+    font-size: 14px;
+    border: 1px solid rgb(204, 204, 204);
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    /* &::placeholder {
+    } */
+  }
+  button {
+    align-self: flex-end;
+    background-color: white;
+    color: rgb(60, 60, 228);
+    font-weight: 600;
+    border: 2px solid rgb(60, 60, 228);
+    border-radius: 5px;
+  }
 }
