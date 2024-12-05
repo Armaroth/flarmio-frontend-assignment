@@ -9,10 +9,11 @@
   <body>
     <article class="card">
       <form>
-        <h1 class="message">Form</h1>
-        <strong>Number</strong>
-        <input placeholder="Please enter a number" />
-        <button>Submit</button>
+        <h1>Form</h1>
+        <span>Number</span>
+        <input name="userInput" placeholder="Please enter a number" />
+        <button disabled="true" class="disabled" type="submit">Submit</button>
+        <span id="warning"></span>
       </form>
     </article>
     <script type="module" src="/index.ts"></script>
