@@ -1,0 +1,23 @@
+{
+  "name": "flarmio-frontend-assignment",
+  "version": "1.0.0",
+  "description": "This is a simple html css js component made as an assignment for Flarmio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "vite": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armaroth/flarmio-frontend-assignment.git"
+  },
+  "author": "Stefanos Palaiochoritis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armaroth/flarmio-frontend-assignment/issues"
+  },
+  "homepage": "https://github.com/Armaroth/flarmio-frontend-assignment#readme"
+}
