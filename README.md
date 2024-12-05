@@ -11,3 +11,4 @@ This is a simple html css js component made as an assignment for Flarmio
 ### 3. type npm run dev for the vite server to load the index.hmtl file
 
 ## Alternatively you can load the html file using any server of your preferance. 
+### side note: submitting the form displays a message on the browser console.
